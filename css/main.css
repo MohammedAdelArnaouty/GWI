@@ -1376,7 +1376,7 @@ input::-moz-focus-inner {
     width: 100%;
 }
 
-    .m-form input[type="email"] {
+    #m-form input[type="email"] {
         width: 100%;
         height: 5.4rem;
         font-size: 1.5rem;
@@ -1387,27 +1387,27 @@ input::-moz-focus-inner {
         margin-bottom: 1.8rem;
     }
 
-        .m-form input[type="email"]::-webkit-input-placeholder {
+        #m-form input[type="email"]::-webkit-input-placeholder {
             color: white;
         }
 
-.m-form input[type="email"]:-moz-placeholder {
+#m-form input[type="email"]:-moz-placeholder {
     color: white;
 }
 
-        .m-form input[type="email"]::-moz-placeholder {
+        #m-form input[type="email"]::-moz-placeholder {
             color: white;
         }
 
-        .m-form input[type="email"]:-ms-input-placeholder {
+        #m-form input[type="email"]:-ms-input-placeholder {
             color: white;
         }
 
-        .m-form input[type="email"].placeholder {
+        #m-form input[type="email"].placeholder {
             color: white !important;
         }
 
-.m-form input[type=submit] {
+#m-form input[type=submit] {
     color: #FFFFFF;
     background: #757575;
     border-color: #757575;
@@ -1418,14 +1418,14 @@ input::-moz-focus-inner {
     right: 0;
 }
 
-.m-form label {
+#m-form label {
     color: #FFFFFF;
     font-family: "metropolis-regular", sans-serif;
     font-size: 1.3rem;
     padding: 0 2rem;
 }
 
-    .m-form label i {
+    #m-form label i {
         padding-right: 6px;
     }
 
