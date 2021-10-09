@@ -2100,9 +2100,13 @@ html.no-csstransitions .home-content__main {
 .s-info h3 {
   margin-top: 0;
   color: #FFFFFF;
-  text-align:center;
 }
-
+    .s-info h4 {
+        font-size: 3.4rem;
+        margin-top: 0;
+        color: #FFFFFF;
+        text-align: center;
+    }
 .s-info h1 {
   font-size: 6.4rem;
   line-height: 1.219;
