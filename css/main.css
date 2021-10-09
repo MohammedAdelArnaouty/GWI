@@ -2430,7 +2430,9 @@ html.no-csstransitions .home-content__main {
   .info-social span {
     display: none;
   }
-
+  .service{
+      text-align:center;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
