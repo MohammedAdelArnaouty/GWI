@@ -2452,6 +2452,19 @@ html.no-csstransitions .home-content__main {
   .service{
       text-align:center;
   }
+
+
+    .s-info img {
+        height: 50px;
+        padding-left: 30px;
+    }
+
+    .s-info h4 {
+        font-size: 1.4rem;
+        margin-top: 0;
+        color: #757575;
+        text-align: center;
+    }
 }
 
 /*# sourceMappingURL=main.css.map *//*
