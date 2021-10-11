@@ -1101,10 +1101,11 @@ input::-moz-focus-inner {
 }
 
 .s-home--static {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url(../images/hero-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../images/hero-bg.jpg);
+    background-blend-mode: color-dodge;
 }
 
 .s-home--static::before {
@@ -1120,8 +1121,8 @@ input::-moz-focus-inner {
 }
 
 .s-home--particles {
-  background: #141414;
-  background: radial-gradient(circle, #141414 0%, black 100%);
+    background: #141414;
+    background: radial-gradient(circle, #141414 0%, #00000005 100%);
 }
 
 .s-home--particles::before {
