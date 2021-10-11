@@ -2413,6 +2413,16 @@ html.no-csstransitions .home-content__main {
     width: 50%;
   }
 
+    .s-info img {
+        height: 50px;
+        padding-left: 30px;
+    }
+    .s-info h4 {
+        font-size: 1.4rem;
+        margin-top: 0;
+        color: #757575;
+        text-align: center;
+    }
 }
 
 @media only screen and (max-width:400px) {
@@ -2444,4 +2454,16 @@ html.no-csstransitions .home-content__main {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map *//*
+.s-info img {
+    height: 80px;
+    padding-left: 70px;
+}
+
+
+.s-info h4 {
+    font-size: 2.0rem;
+    margin-top: 0;
+    color: #757575;
+    text-align: center;
+}*/
