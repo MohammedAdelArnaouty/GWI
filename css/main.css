@@ -2467,6 +2467,28 @@ html.no-csstransitions .home-content__main {
     }
 }
 
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+    .s-info h1 {
+        font-size: 3.8rem;
+    }
+
+    .info-social li {
+        width: 50%;
+    }
+
+    .s-info img {
+        height: 80px;
+        padding-left: 120px;
+    }
+
+    .s-info h4 {
+        font-size: 2.0rem;
+        margin-top: 0;
+        color: #757575;
+        text-align: center;
+    }
+}
+
 /*# sourceMappingURL=main.css.map *//*
 .s-info img {
     height: 80px;
