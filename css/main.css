@@ -2084,6 +2084,10 @@ html.no-csstransitions .home-content__main {
   -webkit-transition: visibility 0s 0.7s;
   transition: visibility 0s 0.7s;
 }
+    .s-info img {
+        height: 80px;
+        padding-left: 70px;
+    }
 
 .s-info a {
   color: #FFFFFF;
